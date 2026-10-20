@@ -3,3 +3,6 @@ CLAUDE.md
 .claude
 examples/
 supabase/
+.env
+.env.*
+.DS_Store
